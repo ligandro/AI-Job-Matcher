@@ -44,7 +44,7 @@ Uses Ollama to process natural language inputs and generate results such as job 
 
 ---
 
-**📂 Folder Structure**
+## 📂 Folder Structure
 app.py: Main Streamlit application file.
 agents: Contains specialized AI agents for extraction, analysis, matching, and recommendation.
 utils: Utility modules for logging, error handling, and file management.
@@ -53,7 +53,7 @@ results: Directory for saving analysis outputs.
 
 ---
 
-**📝 How It Works**
+##📝 How It Works
 Upload Resume: Users upload a PDF resume via the Streamlit interface.
 Input Job Description: Users paste a job description into the provided text area.
 
@@ -65,7 +65,7 @@ Users can view skills analysis, job matches, screening scores, and a tailored co
 Save Results: Analysis outputs are saved in the results directory for future reference.
 
 ---
-**🚀 Getting Started**
+## 🚀 Getting Started
 Clone the repository.
 Install dependencies using pip install -r requirements.txt.
 Run the application with streamlit run app.py.
@@ -73,7 +73,7 @@ Upload a resume and input a job description to get started!
 
 ---
 
-**📌 Future Enhancements**
+## 📌 Future Enhancements
 Improve job matching accuracy with advanced NLP techniques.
 Allow editing of given resume in latex to fit job description for better chances
 Let me know if you need further details or modifications!
