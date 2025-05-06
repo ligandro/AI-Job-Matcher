@@ -1,0 +1,10 @@
+2025-05-05 14:18:58,222 - pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-05 14:19:17,828 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 14:19:26,137 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 14:19:43,508 - httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 14:19:43,513 - AI_Recruiter - ERROR - Processing error: 'screening_results'
+Traceback (most recent call last):
+  File "C:\Users\lolen\Downloads\Jupyter Mac\Python\2-AI\LLM\Ollama\Resume-Agent\app.py", line 188, in main
+    f"{result['screening_results']['screening_score']}%",
+       ~~~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'screening_results'
