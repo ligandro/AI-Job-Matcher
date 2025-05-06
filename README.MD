@@ -53,7 +53,7 @@ personal use to check whether you fit a particular role and easily get a tailore
 
 ---
 
-##📝 How It Works
+## 📝 How It Works
 - Upload Resume: Users upload a PDF resume via the Streamlit interface.
 - Input Job Description: Users paste a job description into the provided text area.
 
