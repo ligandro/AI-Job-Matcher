@@ -4,7 +4,7 @@ An intelligent tool that analyzes a candidate's resume and a job description to 
 personal use to check whether you fit a particular role and easily get a tailored cover letter.
 
 ---
-
+![Demo](demo.gif)
 ## 🚀 Features
 
 - 🔍 **Resume Parsing**: Extracts skills, experience, education, and achievements from the uploaded resume.
